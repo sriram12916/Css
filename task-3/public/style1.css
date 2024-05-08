@@ -1,0 +1,225 @@
+.container2 {
+
+    background-color: rgb(236, 231, 231);
+
+}
+
+.top2 {
+    background-color: rgb(236, 240, 239);
+    border-bottom: 1px hidden;
+    border-left: 1px solid rgb(150, 149, 149);
+}
+
+.chatpro {
+    width: 45px;
+    height: 46px;
+    border-radius: 23px;
+    margin-left: 15px;
+
+}
+#sivamani{
+    position: absolute;
+    margin-top: 10px;
+    padding-left: 20px;
+
+    
+}
+.lastseen{
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+.chattop {
+    float: right;
+    margin-right: 5%;
+    margin-top: 15px;
+}
+
+.sd {
+    padding-right: 25px;
+
+}
+
+.item2 {
+    margin-top: 30%;
+
+}
+
+.date {
+    font-size: 10px;
+    background-color: white;
+    border: 1px hidden;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 50%;
+}
+
+.link1 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px 30px 50px 30px;
+    border: 1px hidden;
+    margin-right: 60%;
+    margin-left: 5%;
+    margin-top: 5%;
+
+}
+
+.time {
+    float: inline-end;
+    margin-top: 30px;
+    font-size: 12px;
+    font-family: sans-serif;
+
+}
+
+
+.link2 {
+    background-color: rgb(234, 236, 236);
+    padding: 10px 20px 30px 10px;
+    border-radius: 5px;
+}
+
+.replay {
+    background-color: rgb(224, 218, 218);
+    margin-top: 50px;
+    padding: 20px 50px 20px 20px;
+}
+
+.retext {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 80px 10px 10px;
+}
+@media(max-width:768px){
+    .link1 {
+        margin-top: 30%;
+    padding: 30px 5px 60px 30px;
+    border: 1px hidden;
+    margin-right: 40%;
+    
+}
+.time {
+    
+    margin-top: 50px;
+    font-size: 15px;
+    
+
+}
+.date{
+    font-size: 15px;
+    margin-left: 40%;
+}
+
+.link2 {
+    background-color: rgb(234, 236, 236);
+    padding: 10px 40px 30px 10px;
+    border-radius: 5px;
+}
+
+}
+@media(max-width:425px){
+
+    .link1 {
+        margin-top: 30%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px 10px 60px 30px;
+    border: 1px hidden;
+    margin-right: 10%;
+    
+}
+
+.link2 {
+    background-color: rgb(234, 236, 236);
+    padding: 10px 40px 40px 10px;
+    border-radius: 5px;
+}
+.time {
+    float: inline-end;
+    margin-top: 60px;
+    font-size: 12px;
+    font-family: sans-serif;
+
+}
+.date {
+    font-size: 10px;
+    margin-left:40%
+}
+.replay{
+    margin-top: 50%;
+}
+
+
+}
+@media(max-width:375px) {
+    .link1 {
+        margin-top: 30%;
+    padding: 30px 10px 45px 30px;
+    
+}
+.link2 {
+    font-size: 15px;
+    background-color: rgb(234, 236, 236);
+    padding: 10px 20px 30px 10px;
+    border-radius: 5px;
+}
+
+
+.replay {
+    
+    margin-top: 60px;
+    padding: 20px 40px 20px 20px;
+}
+.retext {
+    font-size: 13px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px 70px 5px 5px;
+}
+.date{
+    font-size: 10px;
+}
+.time{
+    margin-top: 17%;
+}
+
+}
+@media(max-width:320px){
+    .link1 {
+        margin-top: 30%;
+   padding: 20px; 
+   margin-bottom: 50%;  
+}
+.link2 {
+    font-size: 13px;
+    background-color: rgb(234, 236, 236);
+    padding: 10px;
+    border-radius: 5px;
+}
+.time {
+    float: inline-end;
+    margin-top: 25px;
+    font-size: 8px;
+}
+.date{
+    font-size: 10px;
+}
+
+.replay {
+    padding: 5px;
+    margin-top: 50%;
+}
+#sivamani{
+    
+    margin-top: 10px;
+    padding-left: 20px;
+
+    
+}
+.lastseen{
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+}

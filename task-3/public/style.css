@@ -1,0 +1,598 @@
+.body {
+    background-color: whitesmoke;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 35% auto;
+}
+
+.container1 {
+    background-color: rgb(236, 240, 239);
+}
+
+.top1 {
+    cursor: pointer;
+    background-color: rgb(236, 240, 239);
+    border-bottom: 1px hidden;
+    padding-bottom: 30px;
+}
+
+.myprof {
+    width: 40px;
+    height: 40px;
+    margin-bottom: -30px;
+    border-radius: 20px;
+    margin-left: 12px;
+
+
+}
+
+.proicon {
+    float: right;
+    margin-top: 15px;
+    padding-right: 20px;
+
+}
+
+.group {
+    padding-right: 20px;
+}
+
+.circle {
+    padding-right: 20px;
+}
+
+.msg {
+    padding-right: 20px;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.item1 {
+    display: flex;
+    background-color: white;
+    padding: 10px 15px 10px 15px;
+    border-bottom: 1px solid rgb(202, 199, 199);
+
+
+}
+
+.search {
+    border-radius: 8px;
+    background-color: rgb(236, 240, 239);
+    margin-left: 5px;
+    padding: 10px 10px 10px 10px;
+    padding-right: 40%;
+
+
+}
+
+.icon {
+    padding-right: 30px;
+}
+
+.text {
+    color: rgb(124, 120, 120);
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 15px;
+
+}
+
+.chat1 {
+    background-color: white;
+    padding: 10px;
+    border-bottom: 1px solid rgb(231, 228, 228);
+}
+
+.profile2 {
+    width: 50px;
+    height: 50px;
+}
+
+.delete {
+    font-family: Segoe UI, sans-serif;
+    font-size: 15px;
+    color: rgb(95, 91, 91);
+    padding-left: 3px;
+}
+
+.name1 {
+    float: right;
+    padding-right: 43%;
+    padding-top: 6px;
+}
+
+.chat2 {
+    background-color: white;
+    padding: 10px;
+    border-bottom: 1px solid rgb(231, 228, 228);
+}
+
+.name2 {
+    float: right;
+    padding-right: 70%;
+    padding-top: 6px;
+}
+
+.profile3 {
+    width: 50px;
+    height: 50px;
+}
+
+
+.chat3 {
+    background-color: white;
+    padding: 10px;
+    border-bottom: 1px solid rgb(231, 228, 228);
+}
+
+.name3 {
+    float: right;
+    padding-right: 51%;
+    padding-top: 6px;
+
+}
+
+.video {
+    padding-left: 4px;
+}
+
+.profile4 {
+    width: 50px;
+    height: 50px;
+}
+
+.chat4 {
+    background-color: white;
+    padding: 10px;
+    border-bottom: 1px solid rgb(231, 228, 228);
+}
+
+.name4 {
+    float: right;
+    padding-right: 29%;
+    padding-top: 6px;
+}
+
+.link {
+    padding-left: 5px;
+    font-family: Segoe UI, sans-serif;
+}
+
+.profile5 {
+    width: 50px;
+    height: 50px;
+}
+
+
+.chat5 {
+    background-color: white;
+    padding: 10px;
+    border-bottom: 1px solid rgb(231, 228, 228);
+}
+
+.name5 {
+    float: right;
+    padding-right: 71%;
+    padding-top: 6px;
+}
+
+.voice {
+    padding-left: 5px;
+}
+
+.profile6 {
+    width: 50px;
+    height: 50px;
+}
+
+
+.chat6 {
+    background-color: white;
+    padding: 10px;
+    border-bottom: 1px solid rgb(231, 228, 228);
+}
+
+.name6 {
+    float: right;
+    padding-right: 67%;
+    padding-top: 6px;
+}
+
+.photo {
+    padding-left: 5px;
+}
+
+.profile7 {
+    width: 50px;
+    height: 50px;
+}
+
+.container2 {
+
+    background-color: rgb(236, 231, 231);
+
+}
+
+.top2 {
+    background-color: rgb(236, 240, 239);
+    border-bottom: 1px hidden;
+    border-left: 1px solid rgb(150, 149, 149);
+    
+}
+
+.chatpro {
+    width: 45px;
+    height: 46px;
+    border-radius: 23px;
+    margin-left: 15px;
+
+}
+#sivamani{
+    position:absolute;
+    margin-top: 10px;
+    padding-left: 20px;
+
+    
+}
+.lastseen{
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+.chattop {
+    float: right;
+    margin-right: 5%;
+    margin-top: 15px;
+}
+
+.sd {
+    padding-right: 25px;
+
+}
+
+.item2 {
+    margin-top: 30%;
+
+}
+
+.date {
+    font-size: 10px;
+    background-color: white;
+    border: 1px hidden;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 50%;
+}
+
+.link1 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px 30px 50px 30px;
+    border: 1px hidden;
+    margin-right: 60%;
+    margin-left: 5%;
+    margin-top: 5%;
+
+}
+
+.time {
+    float: inline-end;
+    margin-top: 30px;
+    font-size: 12px;
+    font-family: sans-serif;
+
+}
+
+
+.link2 {
+    background-color: rgb(234, 236, 236);
+    padding: 10px 20px 30px 10px;
+    border-radius: 5px;
+}
+
+.replay {
+    background-color: rgb(224, 218, 218);
+    margin-top: 50px;
+    padding: 20px 50px 20px 20px;
+}
+
+
+.retext {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px 80px 10px 10px;
+}
+
+@media(max-width:1024px) {
+
+
+
+    .search {
+        padding-right: 20%;
+
+    }
+
+    .name1 {
+        float: right;
+        padding-right: 30%;
+        padding-top: 6px;
+    }
+
+    .name2 {
+        float: right;
+        padding-right: 68%;
+        padding-top: 6px;
+    }
+
+    .name3 {
+        float: right;
+        padding-right: 41%;
+        padding-top: 6px;
+
+    }
+
+    .name4 {
+        float: right;
+        padding-right: 10%;
+        padding-top: 6px;
+    }
+
+    .name5 {
+        float: right;
+        padding-right: 70%;
+        padding-top: 6px;
+    }
+
+    .name6 {
+        float: right;
+        padding-right: 62%;
+        padding-top: 6px;
+    }
+
+
+    .link2 {
+        background-color: rgb(234, 236, 236);
+        font-size: 12px;
+        border-radius: 5px;
+    }
+
+    .link1 {
+    
+        margin-right: 50%;
+        margin-left: 5%;
+        margin-top: 5%;
+
+    
+}
+
+.time {
+    float: inline-end;
+    margin-top: 50px;
+    font-size: 10px;
+    
+}
+
+.replay{
+    
+    margin-top: 23%;
+    
+}
+}
+@media(max-width:768px){
+
+    .container {
+        display: grid;
+        grid-template-columns: 40% auto;
+    }
+
+    .search {
+        padding-right: 10%;
+
+    }
+
+    .name1 {
+        float: right;
+        padding-right: 10%;
+        
+    }
+
+    .name2 {
+        float: right;
+        padding-right: 55%;
+        
+    }
+
+    .name3 {
+        float: right;
+        padding-right: 25%;
+        
+
+    }
+
+    .name4 {
+        float: right;
+        padding-right: 0%;
+        
+    }
+    .link {
+        font-size: 14px;
+        
+    }
+
+    .name5 {
+        float: right;
+        padding-right: 60%;
+        
+    }
+
+    .name6 {
+        float: right;
+        padding-right: 52%;
+        
+    }
+
+
+    link2 {
+        
+        font-size: 12px;
+       
+    }
+
+    .link1 {
+    
+        margin-right: 40%;
+        margin-left: 5%;
+        margin-top: 5%;}
+
+.time {
+   
+    margin-top: 35px;
+   
+    
+}
+
+.replay{
+    
+    margin-top: 39%;
+    
+}
+}   
+@media(max-width:426px){
+    .container2{
+        display: none;
+        
+    }
+   
+    .container {
+        display: grid;
+        grid-template-columns: 100% ;
+    }
+    .search {
+        padding-right: 20%;
+
+    }
+    .name1 {
+        
+        padding-right: 38%;
+        
+    }
+
+    .name2 {
+        
+        padding-right: 72%;
+        
+    }
+
+    .name3 {
+        
+        padding-right: 49%;
+        
+    }
+
+    .name4 {
+        
+        padding-right: 29%;
+        
+    }
+    .name5 {
+        
+        padding-right: 74%;
+        
+    }
+
+    .name6 {
+        
+        padding-right: 69%;
+        
+    }
+}
+@media(max-width:375px){
+    .search {
+        padding-right: 10%;
+
+    }
+    .name1 {
+        
+        padding-right: 20%;
+        
+    }
+
+    .name2 {
+        
+        padding-right: 58%;
+        
+    }
+
+    .name3 {
+        
+        padding-right: 32%;
+        
+    }
+
+    .name4 {
+        
+        padding-right: 9%;
+        
+    }
+    .name5 {
+        
+        padding-right: 60%;
+        
+    }
+
+    .name6 {
+        
+        padding-right: 54%;
+        
+    }
+
+}
+@media(max-width:320px){
+    .search{
+        padding-right: 10%;
+
+    }
+
+    .name1 {
+        
+        padding-right: 16%;
+        
+    }
+
+    .name2 {
+        
+        padding-right: 60%;
+        
+    }
+
+    .name3 {
+        
+        padding-right: 30%;
+        
+    }
+
+    .name4 {
+        
+        padding-right: 0%;
+        
+    }
+    .name5 {
+        
+        padding-right: 60%;
+        
+    }
+
+    .name6 {
+        
+        padding-right: 53%;
+        
+    }
+
+}
+
